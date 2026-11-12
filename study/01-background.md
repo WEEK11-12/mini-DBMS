@@ -83,13 +83,5 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <a href="./00-overview.md">⬅ 이전 페이지</a>
-    </td>
-    <td align="right" width="50%">
-      <a href="./02-when-to-use.md">다음 페이지 ➡</a>
-    </td>
-  </tr>
-</table>
+| [⬅ 이전 페이지](./00-overview.md) | <img width="1000" height="1" src="https://github.com" /> | [다음 페이지 ➡](./02-when-to-use.md) |
+| :--- | :---: | ---: |
